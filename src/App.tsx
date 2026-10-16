@@ -935,7 +935,7 @@ export default function App() {
               </div>
 
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight text-white uppercase leading-none">
-                지구는 지금 어디서 흔들릴까?
+                지구의 지진 탐험
               </h1>
 
               <p className="text-base sm:text-lg text-[#a7a7a7] font-normal leading-relaxed">
@@ -2034,7 +2034,7 @@ export default function App() {
                 수업용 플랫폼 개요
               </h4>
               <p className="text-xs text-[#a7a7a7] leading-relaxed">
-                ‘지구는 지금 어디서 흔들릴까?’는 중학교 과학 지권의 변화 및 판 구조론 단원을 위한 데이터 시각화 웹 애플리케이션입니다.
+                ‘지구의 지진 탐험’은 중학교 과학 지권의 변화 및 판 구조론 단원을 위한 데이터 시각화 웹 애플리케이션입니다.
               </p>
             </div>
 
